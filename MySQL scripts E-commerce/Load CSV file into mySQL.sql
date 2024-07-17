@@ -1,3 +1,4 @@
+```mysql
 /* 
 Load data from the specified CSV file into the transactions2 table.
 The data file is located at 'C:/Users/hamid/desktop/E-commerce Dataset Project/data.csv'.
