@@ -70,17 +70,22 @@ Based on the analysis, the following recommendations were made:
 - **Investigate Sales Fluctuations**: Explore reasons behind significant sales spikes and drops.
 
 ### Screenshots and Visualizations
-![Sales Trends](ecommerce-sales-analysis/Tableau%20visuals/image_sales_trends.JPG)
-![Top-Selling Products](images/top_selling_products.png)
+![](Tableau_visuals/image_sales_trends.JPG)
 
-For interactive dashboards, check out the [Tableau Dashboard](link-to-your-tableau-dashboard).
+
+![](Tableau_visuals/image_top_10.JPG)
+
+
+![](Tableau_visuals/image_customer_segmentation.JPG)
+
+For interactive dashboards, check out the [Tableau Dashboard](https://public.tableau.com/views/E-commerceCustomerJourneySalesanalysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Files
-- [Project Tableau File](link-to-your-tableau-file.twbx)
+- [Project Tableau File](Tableau_visuals/Customer_Journey&Sales_analysis.twbx)
 - [Data Source Files](link-to-your-data-source-files)
 
 Feel free to explore the visualizations and analysis results in the provided Tableau dashboard and data files.
 
 ---
 
-Happy analyzing! If you have any questions or need further details, please feel free to contact me.
+Happy analyzing!😃🤓 If you have any questions or need further details, please feel free to contact me.
