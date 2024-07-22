@@ -70,7 +70,7 @@ Based on the analysis, the following recommendations were made:
 - **Investigate Sales Fluctuations**: Explore reasons behind significant sales spikes and drops.
 
 ### Screenshots and Visualizations
-![Sales Trends Over Time](image_sales_trends.JPG)
+![](image_sales_trends.JPG)
 ![Top-Selling Products](images/top_selling_products.png)
 
 For interactive dashboards, check out the [Tableau Dashboard](link-to-your-tableau-dashboard).
