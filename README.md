@@ -15,7 +15,7 @@ The objective of this analysis was to uncover actionable insights from e-commerc
 
 ## Skills Demonstrated
 Throughout this project, I demonstrated proficiency in:
-- Data TransfoDescriptive Analysis 📊
+- Descriptive Analysis 📊
 - Segmentation Analysis 🔍
 - Exploratory Data Analysis (EDA) 📈
 - Predictive Analysis 🔮
@@ -81,11 +81,18 @@ Based on the analysis, the following recommendations were made:
 For interactive dashboards, check out the [Tableau Dashboard](https://public.tableau.com/views/E-commerceCustomerJourneySalesanalysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Files
-- [Project Tableau File](Tableau_visuals/Customer_Journey&Sales_analysis.twbx)
-- [Data Source Files](link-to-your-data-source-files)
+- [Tableau Dashboard](Tableau_visuals/Customer_Journey&Sales_analysis.twbx)
+- [Original Data File](link-to-your-data-source-files)
+
+
+**The following processed datasets were used in the analysis**:
+
+- [`customer_summary.csv`](https://docs.google.com/spreadsheets/d/1_VwWvUBht4Ikn0ewoHeRIj1J8u39dCgYQtvDMBO9Z98/edit?usp=sharing): This table provides a summary view of each customer, combining all transactions to allow for an analysis of individual customer metrics. It includes aggregated data such as total purchase value and average order value.
+
+- [`transactions3_temp.csv`](https://docs.google.com/spreadsheets/d/1OxMLiy1Egf-_1UpeNtU9dhreGNMhL7vlRssbB78Z0b0/edit?usp=sharing): This table includes calculated fields for deeper analysis, such as total transaction value and customer segmentation. It consolidates individual transactions with additional metrics for comprehensive insights.
 
 Feel free to explore the visualizations and analysis results in the provided Tableau dashboard and data files.
 
 ---
 
-Happy analyzing!😃🤓 If you have any questions or need further details, please feel free to contact me.
+Happy analyzing!🤓 If you have any questions or need further details, please feel free to contact me.
