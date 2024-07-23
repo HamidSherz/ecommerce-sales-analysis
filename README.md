@@ -50,12 +50,23 @@ Key models and techniques were applied to analyze and predict performance:
 - **Data Modeling**: Developed models to understand relationships and performance metrics, including KPIs and calculated fields.
 
 ## Analysis & Visualization
-Key analyses were performed using Tableau and SQL:
-- **Sales Trends Over Time**: Identified peaks and troughs in sales and seasonal patterns
-- **Top-Selling Products**: Analyzed product performance by revenue and quantity
-- **Segmented Purchase Analysis**: Segmented customers by total purchase value (Low, Medium, High) and included regional performance insights
-- **Summary KPI's**: Consolidated key metrics such as Total Revenue, Average Order Value (AOV), Customer Lifetime Value (CLV), and Retention Rate
+Key analyses performed using Tableau and SQL:
 
+- **Sales Trends**:
+  - **Monthly Peaks**: Sales peaked at £1,450,000 in Nov/Dec with a 163.64% growth from Jan to Nov.
+  - **Seasonal Surge**: Notable Q4 increase due to holiday shopping; stable sales from May to Aug.
+
+- **Top Products**:
+  - **Highest Sales**: Regency Cakestand (£164,000); majority of top products priced between £1-£3.
+
+- **Customer Segmentation**:
+  - **Behavior**: High-value customers peak in Nov/Dec, particularly from the UK and Germany; steady purchases from the Netherlands and Ireland.
+  - **Regional Revenue**: UK leads in revenue, followed by Germany, Netherlands, and Ireland.
+
+- **KPIs**:
+  - **Retention Rate**: Stable at 87-92% monthly, 65% overall.
+  - **CLV**: Increased to £860.37 in Dec.
+  
 ### Key Findings
 
 | Metric                      | Value                 |
@@ -66,12 +77,22 @@ Key analyses were performed using Tableau and SQL:
 | **Customer Lifetime Value (CLV)** | £860.37           |
 
 ## Conclusion and Recommendations
-Based on the analysis, the following recommendations were made:
-- **Optimize Inventory Management**: Adjust inventory levels to align with identified seasonal sales trends.
-- **Enhance Customer Retention**: Implement targeted campaigns and improve loyalty programs.
-- **Increase Customer Lifetime Value (CLV)**: Focus on cross-selling and upselling strategies.
-- **Investigate Sales Fluctuations**: Explore reasons behind significant sales spikes and drops.
+Based on the analysis, the following conclusions were drawn:
+- **Sales Trends**: Nov/Dec saw significant peaks and stable sales from May to August.
+- **Top Products**: Regency Cakestand and similarly priced items drove high sales.
+- **Customer Behavior**: High-value customers peak in Nov/Dec with strong contributions from the UK and Germany.
+- **KPIs**: Retention rates and CLV are stable and increasing, respectively.
 
+**Actionable Recommendations**
+1. **Optimize Inventory for Peaks**: Adjust inventory levels to align with high sales periods in Nov/Dec.
+2. **Refine Marketing Tactics**: Focus marketing efforts on underperforming months and regions.
+3. **Enhance Customer Engagement**: Develop targeted strategies for high-value customers during peak periods.
+
+**Areas for Further Investigation**
+1. **Seasonal Correlations**: Investigate the factors driving seasonal sales peaks.
+2. **Product Profitability**: Analyze profitability trends for products with unique sales patterns.
+3. **AOV Variations**: Investigate variations in Average Order Value (AOV) among high-value customers across different regions to optimize pricing and promotional strategies.
+   
 ### Screenshots and Visualizations
 ![](Tableau_visuals/image_sales_trends.JPG)
 
