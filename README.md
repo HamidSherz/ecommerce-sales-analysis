@@ -92,6 +92,9 @@ Based on the analysis, the following conclusions were drawn:
 1. **Seasonal Correlations**: Investigate the factors driving seasonal sales peaks.
 2. **Product Profitability**: Analyze profitability trends for products with unique sales patterns.
 3. **AOV Variations**: Investigate variations in Average Order Value (AOV) among high-value customers across different regions to optimize pricing and promotional strategies.
+
+**Limitations**
+- **Data Coverage**: December data from the previous year was excluded to prevent duplicate entries for that month. This decision was made to maintain data accuracy and avoid inflating the annual metrics with repeated December values.
    
 ### Screenshots and Visualizations
 ![](Tableau_visuals/image_sales_trends.JPG)
