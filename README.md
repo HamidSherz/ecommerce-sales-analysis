@@ -80,9 +80,9 @@ Based on the analysis, the following recommendations were made:
 
 For interactive dashboards, check out the [Tableau Dashboard](https://public.tableau.com/views/E-commerceCustomerJourneySalesanalysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public.
 
-## Files
+## Links
 - [Tableau Dashboard](Tableau_visuals/Customer_Journey&Sales_analysis.twbx)
-- [Original Data File](https://docs.google.com/spreadsheets/d/1c8WK008EwUROTsHSHolbZYLGvJedK3Xfo2hKzMYZJTY/edit?usp=sharing)
+- [Original Data Set](https://docs.google.com/spreadsheets/d/1c8WK008EwUROTsHSHolbZYLGvJedK3Xfo2hKzMYZJTY/edit?usp=sharing)
 
 
 **The following processed datasets were used in the analysis**:
