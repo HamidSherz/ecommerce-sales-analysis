@@ -13,8 +13,8 @@ The objective of this analysis was to uncover actionable insights from e-commerc
 - Understand high-value customers and their purchasing behaviors
 - Assess sales performance across different geographical regions
 
-## Skills Demonstrated
-Throughout this project, I demonstrated proficiency in:
+## Applied Techniques
+This project applied techniques in:
 - Descriptive Analysis 📊
 - Segmentation Analysis 🔍
 - Exploratory Data Analysis (EDA) 📈
@@ -78,10 +78,9 @@ Based on the analysis, the following recommendations were made:
 
 ![](Tableau_visuals/image_customer_segmentation.JPG)
 
-For interactive dashboards, check out the [Tableau Dashboard](https://public.tableau.com/views/E-commerceCustomerJourneySalesanalysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public.
+For interactive dashboards, check out the [Tableau Dashboard](https://public.tableau.com/views/E-commerceCustomerJourneySalesanalysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public or alternatively you can download the file [here](Tableau_visuals/Customer_Journey&Sales_analysis.twbx) directly from my repository.
 
-## Links
-- [Tableau Dashboard](Tableau_visuals/Customer_Journey&Sales_analysis.twbx)
+## Data Access and Processed Datasets
 - [Original Data Set](https://docs.google.com/spreadsheets/d/1c8WK008EwUROTsHSHolbZYLGvJedK3Xfo2hKzMYZJTY/edit?usp=sharing)
 
 
