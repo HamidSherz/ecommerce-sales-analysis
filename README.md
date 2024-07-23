@@ -36,15 +36,18 @@ The data for this analysis was acquired from a comprehensive e-commerce dataset,
 This dataset provides an extensive view of transaction dynamics and customer behavior.
 
 ## Data Transformation
-The data was cleaned and transformed to ensure accuracy and consistency:
-- **Removed duplicates** and handled missing values
-- **Standardized** data formats
-- **Aggregated** data by product categories and regions
+The data was processed to ensure accuracy and consistency through the following steps:
+- **Data Validation**: Identified and aggregated duplicate entries by summing the `Quantity` and averaging the `UnitPrice`, then consolidated this data into a new table (`transactions3_temp`) to ensure each transaction was uniquely represented.
+- **Data Selection**: Selected relevant columns from the original dataset to focus on key variables for analysis.
+- **Data Standardization**: Standardized data formats to ensure consistency across the dataset.
+- **Data Aggregation**: Aggregated data by product categories and regions to facilitate detailed analysis.
+- **Calculated Fields**: Created calculated fields in Tableau to enhance analysis, including metrics such as total revenue and customer segmentation.
 
 ## Modelling
-Key models and metrics were developed to analyze performance:
-- **Customer Segmentation**: Categorized customers into Low, Medium, and High Value
-- **Sales Forecasting**: Used historical data to predict future sales trends
+Key models and techniques were applied to analyze and predict performance:
+- **Customer Segmentation**: Applied segmentation analysis to categorize customers into Low, Medium, and High Value segments based on purchasing behavior and other metrics.
+- **Sales Forecasting**: Used predictive analysis techniques to forecast future sales trends based on historical data.
+- **Data Modeling**: Developed models to understand relationships and performance metrics, including KPIs and calculated fields.
 
 ## Analysis & Visualization
 Key analyses were performed using Tableau and SQL:
