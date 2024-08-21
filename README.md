@@ -18,7 +18,6 @@ This project applied techniques in:
 - Descriptive Analysis 📊
 - Segmentation Analysis 🔍
 - Exploratory Data Analysis (EDA) 📈
-- Predictive Analysis 🔮
 - Business Intelligence (BI) Techniques 📉
 - Data Visualization 📉
 - ETL (Extract, Transform, Load) 🔄
